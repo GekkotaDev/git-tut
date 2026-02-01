@@ -1,5 +1,6 @@
 const main = () => {
-  console.log("Hello, banana!")
+  // Pretend I'm another member who pushed a change to main, okay?
+  console.log("Hello, apple!")
 }
 
 export default main;
